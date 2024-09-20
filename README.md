@@ -76,6 +76,10 @@
 
 - [Mimimi](https://wptavern.com/how-a-munich-based-game-studio-is-using-wordpress-and-gutenberg-to-power-its-website)
 
+### Utilities & Tools
+
+- [html-to-gutenberg](https://github.com/diogoangelim/html-to-gutenberg/) - HTML Converter By Diogo Angelim
+
 <br/>
 <br/>
 
